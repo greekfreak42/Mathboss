@@ -1,7 +1,7 @@
 import json
 
 class Settings:
-    filename = 'settigns.json'
+    filename = 'settings.json'
 
     def __init__(self) -> None:
 
