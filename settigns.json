@@ -1,1 +1,1 @@
-{"operators": "+", "max-result": 10}
+{"operators": "+-", "max-result": 42, "max-occuring-number": 12}

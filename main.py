@@ -10,7 +10,7 @@ def main():
 
     settings = Settings()
 
-    show_main_menu(settings)
+    run_main_loop(settings)
 
 
 if __name__ == '__main__': main()
